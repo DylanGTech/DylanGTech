@@ -11,3 +11,5 @@ Here are some interesting things to know about me:
  - I run a little blog on my website!
 
 My website can be found here: https://www.dylangtech.com with my full list of projects, as well as additional contact information. Can't wait to hear from you!
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/dylangtech)
